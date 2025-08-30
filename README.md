@@ -31,6 +31,10 @@
 
 ---
 
-_"Always building, sometimes finishing."_  
+<div align="center">
 
-[⬅️ Back to my GitHub profile](https://github.com/cfrBernard)
+_"Always building, sometimes finishing."_ 
+
+[![Profile](https://img.shields.io/badge/◀-Back_To_My_Profile-blue?style=for-the-badge)](https://github.com/cfrBernard)
+
+</div>
