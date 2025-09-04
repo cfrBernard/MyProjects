@@ -27,6 +27,18 @@ This is a simple Python app, designed to help you create Mask Maps by combining 
 
 ---
 
+## GitHubStats – [Repo](https://github.com/cfrBernard/GitHubStats)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GUI](https://img.shields.io/badge/interface-GUI-purple) <br>
+![Tool](https://img.shields.io/badge/Tool-blue)
+![Released](https://img.shields.io/badge/Released-green)
+![Inactive](https://img.shields.io/badge/status-Inactive-red) 
+
+GitHub Stats is a simple desktop application that lets you quickly view a GitHub user's statistics. Built with customtkinter, it fetches data from the GitHub API and presents it in a clean and interactive interface.
+
+---
+
 ## GitHub-Follower-Management – [Repo](https://github.com/cfrBernard/GitHub-Follower-Management)
 ![Version](https://img.shields.io/badge/version-v2.2.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
