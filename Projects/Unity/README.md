@@ -31,7 +31,7 @@ Custom Unity Core Framework – A central framework for Unity, fully modular and
 ![Prototype](https://img.shields.io/badge/Prototype-red)
 ![Inactive](https://img.shields.io/badge/status-Inactive-red) 
 
-C# Script designed to help you create Mask Maps by combining multiple textures into a single RGBA image. It’s a powerful solution for optimizing textures in Unity HDRP.
+C# Script designed to help you create Mask Maps by combining multiple textures into a single RGBA image. It’s a powerful solution for optimizing textures in Unity HDRP. – [My Python alternative.](https://github.com/cfrBernard/MaskMapWizard)
 
 ---
 
