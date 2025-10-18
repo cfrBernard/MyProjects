@@ -46,6 +46,17 @@ This project is a small physics-based basketball arcade game, made as a first ex
 
 ---
 
+## Triple Triad FanGame – [Repo](https://github.com/cfrBernard/TT-HD-3D)
+![Version](https://img.shields.io/badge/version-proto_v18.11.1-blue)
+![Unity](https://img.shields.io/badge/Unity-6000.2.7f2-blue?logo=unity&logoColor=white) <br>
+![Game](https://img.shields.io/badge/Game-yellow)
+![Prototype](https://img.shields.io/badge/Prototype-red)
+![WIP](https://img.shields.io/badge/status-WIP-red)   
+
+Triple Triad FanGame attempt, in the original universe "TES" by Bethesda. Based on the excellent "Triple Triad Card Game in Skyrim" mod for Skyrim, by dylbill, and it's enhance "Triple Triad in Skyrim - Tamriel Edition" by JustIChris.
+
+---
+
 ## Platformer_2D – [Repo](https://github.com/cfrBernard/Platformer_2D)
 ![Version](https://img.shields.io/badge/version-v0.11.1-blue)
 ![Unity](https://img.shields.io/badge/Unity-6000.0.26f1-blue?logo=unity&logoColor=white) <br>
@@ -54,7 +65,6 @@ This project is a small physics-based basketball arcade game, made as a first ex
 ![Inactive](https://img.shields.io/badge/status-Inactive-red)  
 
 2D Platformer Game Project, using Unity. It draws inspiration from Metroidvania games and classic platformers, while aiming to explore a deeper narrative. The project is currently in the prototyping phase, with a strong focus on smooth character movement and exploring advanced gameplay mechanics.
-
 
 ---
 
