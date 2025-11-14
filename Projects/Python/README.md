@@ -28,7 +28,7 @@ This is a simple Python app, designed to help you create Mask Maps by combining 
 ---
 
 ## XML_Manipulator – [Repo](https://github.com/cfrBernard/XML_Manipulator)
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Version](https://img.shields.io/badge/version-v1.2.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![CLI](https://img.shields.io/badge/interface-CLI-orange) <br>
 ![Tool](https://img.shields.io/badge/Tool-blue)
