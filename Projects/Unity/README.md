@@ -47,7 +47,7 @@ This project is a small physics-based basketball arcade game, made as a first ex
 ---
 
 ## Triple Triad FanGame – [Repo](https://github.com/cfrBernard/TT-HD-3D)
-![Version](https://img.shields.io/badge/version-proto_v18.11.1-blue)
+![Version](https://img.shields.io/badge/version-proto_v18.12.0-blue)
 ![Unity](https://img.shields.io/badge/Unity-6000.2.7f2-blue?logo=unity&logoColor=white) <br>
 ![Game](https://img.shields.io/badge/Game-yellow)
 ![Prototype](https://img.shields.io/badge/Prototype-red)
