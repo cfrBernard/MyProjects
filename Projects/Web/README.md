@@ -30,7 +30,7 @@ A simple web application that allows users to manage their tasks and to-do lists
 
 ## Password Generator Chrome Extension – [Repo](https://github.com/cfrBernard/Password-Generator-Chrome)
 ![Extension](https://img.shields.io/badge/Extension-purple)
-![Version](https://img.shields.io/badge/version-v1.0.1-blue)
+![Version](https://img.shields.io/badge/version-v1.1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green) <br>
 ![Released](https://img.shields.io/badge/Released-green)
 ![Inactive](https://img.shields.io/badge/status-Inactive-red)
