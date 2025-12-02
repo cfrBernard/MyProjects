@@ -76,7 +76,7 @@ This tool was developed to help with organizing, sorting, and capturing improvis
 ---
 
 ## ML-Fraud-Analysis – [Repo](https://github.com/cfrBernard/ML-Fraud-Analysis)
-![Version](https://img.shields.io/badge/version-v0.1.1-blue)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![CLI](https://img.shields.io/badge/interface-CLI-orange) <br>
 ![Data](https://img.shields.io/badge/Data-orange)
