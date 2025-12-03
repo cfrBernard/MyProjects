@@ -24,17 +24,6 @@ I created this Git cheat sheet because I needed a reference that includes not on
 
 ---
 
-## OpenWallpaper – [Repo](https://github.com/cfrBernard/OpenWallpaper)
-![C](https://img.shields.io/badge/C%23-.NET-purple)
-![Version](https://img.shields.io/badge/version-v0.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green) <br>
-![Prototype](https://img.shields.io/badge/Prototype-red)
-![Inactive](https://img.shields.io/badge/status-Inactive-red)
-
-Wallpaper app for desktop (WIP) .NET // WPF – MVVM.
-
----
-
 <div align="center">
 
 [![Hub](https://img.shields.io/badge/◀-Hub-blue?style=for-the-badge)](../../README.md)
