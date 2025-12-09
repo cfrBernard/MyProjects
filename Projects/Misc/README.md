@@ -24,6 +24,18 @@ I created this Git cheat sheet because I needed a reference that includes not on
 
 ---
 
+## LEGO MOC Designs
+
+![misc](https://img.shields.io/badge/misc-yellow)
+![WIP](https://img.shields.io/badge/status-WIP-red) 
+
+I design custom LEGO models *(MOCs)* as a creative side project.  
+You can find all my published builds on **Rebrickable:**
+
+https://rebrickable.com/users/cfrBernard/
+
+---
+
 <div align="center">
 
 [![Hub](https://img.shields.io/badge/◀-Hub-blue?style=for-the-badge)](../../README.md)
