@@ -7,9 +7,20 @@
 ![Unity](https://img.shields.io/badge/Unity-6000.1.12f1-blue?logo=unity&logoColor=white) <br>
 ![Tool](https://img.shields.io/badge/Tool-blue)
 ![Released](https://img.shields.io/badge/Released-green)
+![Inactive](https://img.shields.io/badge/status-Inactive-red)
+
+Simple script designed to quickly create timelapses in Unity HDRP. Ideal for presenting scenes, cinematics, or testing lighting variations without using Timeline. Version `0.4.4` -> Has only a directional light rotation, volumetric cloud offset animation and water simulation speed.
+
+---
+
+## UnityLiteL10n – [Repo](https://github.com/cfrBernard/UnityLiteL10n)
+![Version](https://img.shields.io/badge/version-v0.4.0-blue)
+![Unity](https://img.shields.io/badge/Unity-6000.3.1f1-blue?logo=unity&logoColor=white) <br>
+![Tool](https://img.shields.io/badge/Tool-blue)
+![Prototype](https://img.shields.io/badge/Prototype-red)
 ![WIP](https://img.shields.io/badge/status-WIP-red)  
 
-Simple script designed to quickly create timelapses in Unity HDRP. Ideal for presenting scenes, cinematics, or testing lighting variations without using Timeline. Version 0.4.4 -> Has only a directional light rotation, volumetric cloud offset animation and water simulation speed.
+A minimal JSON-Based localization tool for Unity – Designed for small projects. Version `0.4.0` -> This tool currently supports static text only. Variables, plurals, and advanced formatting are not implemented yet.
 
 ---
 
@@ -18,7 +29,7 @@ Simple script designed to quickly create timelapses in Unity HDRP. Ideal for pre
 ![Unity](https://img.shields.io/badge/Unity-6000.0.41f1-blue?logo=unity&logoColor=white) <br>
 ![Tool](https://img.shields.io/badge/Tool-blue)
 ![Prototype](https://img.shields.io/badge/Prototype-red)
-![WIP](https://img.shields.io/badge/status-WIP-red)  
+![Inactive](https://img.shields.io/badge/status-Inactive-red)  
 
 Custom Unity Core Framework – A central framework for Unity, fully modular and data-driven. Includes a full suite of managers, robust boot and loading systems, a comprehensive save system, and a fully configurable settings menu. Designed to accelerate development, maintain flexibility, and centralize all the essential features of an Unity project.
 
