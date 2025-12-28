@@ -14,7 +14,7 @@ Simple script designed to quickly create timelapses in Unity HDRP. Ideal for pre
 ---
 
 ## UnityLiteL10n – [Repo](https://github.com/cfrBernard/UnityLiteL10n)
-![Version](https://img.shields.io/badge/version-v0.4.0-blue)
+![Version](https://img.shields.io/badge/version-v0.5.0-blue)
 ![Unity](https://img.shields.io/badge/Unity-6000.3.1f1-blue?logo=unity&logoColor=white) <br>
 ![Tool](https://img.shields.io/badge/Tool-blue)
 ![Prototype](https://img.shields.io/badge/Prototype-red)
