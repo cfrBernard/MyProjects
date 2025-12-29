@@ -62,7 +62,7 @@ This project is a small physics-based basketball arcade game, made as a first ex
 ![Unity](https://img.shields.io/badge/Unity-6000.2.7f2-blue?logo=unity&logoColor=white) <br>
 ![Game](https://img.shields.io/badge/Game-yellow)
 ![Prototype](https://img.shields.io/badge/Prototype-red)
-![WIP](https://img.shields.io/badge/status-WIP-red)   
+![Inactive](https://img.shields.io/badge/status-Inactive-red)  
 
 Triple Triad FanGame attempt, in the original universe "TES" by Bethesda. Based on the excellent "Triple Triad Card Game in Skyrim" mod for Skyrim, by dylbill, and it's enhance "Triple Triad in Skyrim - Tamriel Edition" by JustIChris.
 
