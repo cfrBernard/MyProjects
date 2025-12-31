@@ -14,13 +14,13 @@ Simple script designed to quickly create timelapses in Unity HDRP. Ideal for pre
 ---
 
 ## UnityLiteL10n – [Repo](https://github.com/cfrBernard/UnityLiteL10n)
-![Version](https://img.shields.io/badge/version-v0.6.0-blue)
+![Version](https://img.shields.io/badge/version-v0.7.0-blue)
 ![Unity](https://img.shields.io/badge/Unity-6000.3.1f1-blue?logo=unity&logoColor=white) <br>
 ![Tool](https://img.shields.io/badge/Tool-blue)
 ![Prototype](https://img.shields.io/badge/Prototype-red)
 ![WIP](https://img.shields.io/badge/status-WIP-red)  
 
-A minimal JSON-Based localization tool for Unity – Designed for small projects. Version `0.6.0` -> This tool currently supports static text only. Variables, plurals, and advanced formatting are not implemented yet.
+A minimal JSON-Based localization tool for Unity – Designed for small projects. Version `0.7.0` -> This tool currently supports static text only. Variables, plurals, and advanced formatting are not implemented yet.
 
 ---
 
