@@ -5,7 +5,7 @@
 ## MyGitCheatSheet – [Repo](https://github.com/cfrBernard/MyGitCheatSheet)
 ![Docs](https://img.shields.io/badge/Docs-purple)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green) <br>
+![License](https://img.shields.io/badge/License-CC0-green) <br>
 ![Released](https://img.shields.io/badge/Released-green)
 ![Inactive](https://img.shields.io/badge/status-Inactive-red)
 
