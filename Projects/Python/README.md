@@ -52,9 +52,9 @@ GitHub Stats is a simple desktop application that lets you quickly view a GitHub
 ---
 
 ## GitHub-Follower-Management – [Repo](https://github.com/cfrBernard/GitHub-Follower-Management)
-![Version](https://img.shields.io/badge/version-v2.2.0-blue)
+![Version](https://img.shields.io/badge/version-v3.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![GUI](https://img.shields.io/badge/interface-GUI/CLI-orange) <br>
+![CLI](https://img.shields.io/badge/interface-CLI-orange) <br>
 ![Tool](https://img.shields.io/badge/Tool-blue)
 ![Released](https://img.shields.io/badge/Released-green)
 ![Inactive](https://img.shields.io/badge/status-Inactive-red) 
