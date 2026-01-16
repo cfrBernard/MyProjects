@@ -2,6 +2,17 @@
 
 ---
 
+## Dart-Tracker – [Repo](https://github.com/cfrBernard/Dart-Tracker)
+![Website](https://img.shields.io/badge/Website-blue)
+![Version](https://img.shields.io/badge/version-v0.3.3-blue)
+![License](https://img.shields.io/badge/license-MIT-green) <br>
+![Prototype](https://img.shields.io/badge/Prototype-red)
+![WIP](https://img.shields.io/badge/status-WIP-red)
+
+A lightweight web application to track darts games (301 / 501 / 701) in real time. Designed for simplicity, speed, and focus during gameplay, Dart Tracker helps players manage scores, turns, and game history without friction.
+
+---
+
 ## Interactive-quiz – [Repo](https://github.com/cfrBernard/Interactive-quiz)
 ![Website](https://img.shields.io/badge/Website-blue)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
