@@ -35,6 +35,15 @@ I created this Git cheat sheet because I needed a reference that includes not on
 
 ---
 
+## ESP32 Projects – [Repo](https://github.com/cfrBernard/ESP32-Projects)
+![MicroPython](https://img.shields.io/badge/MicroPython-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![WIP](https://img.shields.io/badge/status-WIP-red)
+
+A small collection of my **ESP32 projects** in **MicroPython** (Electronic, Lego related, etc..)
+
+---
+
 ## LEGO MOC Designs
 
 I design custom LEGO models *(MOCs)* as a creative side project.  
