@@ -2,6 +2,12 @@
 
 ---
 
+## Unity Scene Showcase – [Repo](https://github.com/cfrBernard/Unity-Scene-Showcase)
+
+A showcase of Unity scenes built in HDRP. This repository is both a visual portfolio and a technical breakdown of how each scene was built – from blockout to final polish.
+
+---
+
 ## UnityTimelapse – [Repo](https://github.com/cfrBernard/UnityTimelapse)
 ![Version](https://img.shields.io/badge/version-v0.4.4-blue)
 ![Unity](https://img.shields.io/badge/Unity-6000.1.12f1-blue?logo=unity&logoColor=white) <br>
