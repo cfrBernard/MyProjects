@@ -21,7 +21,7 @@ This is a simple Python app, designed to help you create Mask Maps by combining 
 ![CLI](https://img.shields.io/badge/interface-CLI-orange) <br>
 ![Tool](https://img.shields.io/badge/Tool-blue)
 ![Released](https://img.shields.io/badge/Released-green)
-![WIP](https://img.shields.io/badge/status-WIP-red)
+![Inactive](https://img.shields.io/badge/status-Inactive-red)
 
 This tool was created to help LEGO enthusiasts manage their BrickLink collections efficiently. Often, Rebrickable's free plan limits the number of unique parts per list, and manually splitting large XML inventories can be tedious.
 
