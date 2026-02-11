@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/badge/version-v0.3.3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green) <br>
 ![Prototype](https://img.shields.io/badge/Prototype-red)
-![WIP](https://img.shields.io/badge/status-WIP-red)
+![Inactive](https://img.shields.io/badge/status-Inactive-red)
 
 [**https://cfrbernard.github.io/Dart-Tracker**](https://cfrbernard.github.io/Dart-Tracker/)
 
