@@ -29,7 +29,7 @@ Personal development environment for modding **Oblivion Remastered** (2025). Thi
 ![Version](https://img.shields.io/badge/version-v0.1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green) <br>
 ![Prototype](https://img.shields.io/badge/Prototype-red)
-![WIP](https://img.shields.io/badge/status-WIP-red)
+![Inactive](https://img.shields.io/badge/status-Inactive-red)
 
 Series of guides designed to help players and modders customize their experience in **The Elder Scrolls V: Skyrim**. Whether you’re a beginner or a seasoned modder, these guides will take you step-by-step toward creating stable and immersive gaming sessions.
 
