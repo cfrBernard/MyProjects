@@ -27,6 +27,18 @@ This tool was created to help LEGO enthusiasts manage their BrickLink collection
 
 ---
 
+## BulkCropper – [Repo](https://github.com/cfrBernard/BulkCropper)
+![Version](https://img.shields.io/badge/version-v2.7.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![CLI](https://img.shields.io/badge/interface-CLI-orange) <br>
+![Tool](https://img.shields.io/badge/Tool-blue)
+![Released](https://img.shields.io/badge/Released-green)
+![WIP](https://img.shields.io/badge/status-WIP-red)
+
+BulkCropper is a lightweight computer vision tool written in Python that automatically detects, segments and crops multiple objects from a single image. Now with an optional Brickognize API integration and an optional GUI to launch the complete pipeline. While the project is primarily designed for LEGO parts, the underlying detection pipeline is generic enough to work with many other isolated objects placed on a clean background.
+
+---
+
 ## ASCII-Tree-Project – [Repo](https://github.com/cfrBernard/ASCII-Tree-Project)
 ![Version](https://img.shields.io/badge/version-v0.2.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
